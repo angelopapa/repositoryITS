@@ -1,2 +1,6 @@
 f01
+<<<<<<< HEAD
 pippo
+=======
+pluto
+>>>>>>> master
